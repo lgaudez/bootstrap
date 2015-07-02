@@ -27,6 +27,7 @@ Do you want to see directives in action? Visit http://angular-ui.github.io/boots
 # Installation
 
 Installation is easy as UI Bootstrap has minimal dependencies - only the AngularJS and Twitter Bootstrap's CSS are required.
+Note: Since version 0.13.0, Ui Bootstrap depends on [ng-animate module](https://docs.angularjs.org/api/ngAnimate) for transitions and animations (ie accordion directive, carroussel). Include it in your angular if you want enable these features.
 
 #### Install with Bower
 ```sh
